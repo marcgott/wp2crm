@@ -1,0 +1,28 @@
+.theme-color1-dk{ color:#4e7891 !important}
+.theme-color1-lt{ color:#76b6db !important}
+.theme-color2-dk{ color:#179eed !important}
+.theme-color2-lt{ color:#d0e2ed !important}
+.theme-background1-dk{ background-color:#4e7891 !important}
+.theme-background1-lt{ background-color:#76b6db !important}
+.theme-background2-dk{ background-color:#179eed !important}
+.theme-background2-lt{ background-color:#d0e2ed !important}
+.theme-border1-dk{ border:3px solid #4e7891 !important}
+.theme-border1-lt{ border:3px solid #76b6db !important}
+.theme-border2-dk{ border:3px solid #179eed !important}
+.theme-border2-lt{ border:3px solid #d0e2ed !important}
+.theme-button1-dk{background-color:#4e7891 !important; color:#76b6db !important; padding:4px !important; border:0 !important;}
+.theme-button1-lt{background-color:#76b6db !important; color:#4e7891 !important; padding:4px !important; border:0 !important;}
+.theme-button2-dk{background-color:#179eed !important; color:#d0e2ed !important; padding:4px !important; border:0 !important;}
+.theme-button2-lt{background-color:#d0e2ed !important; color:#179eed !important; padding:4px !important; border:0 !important;}
+.theme-color1-dk a, .theme-color1-dk i {color:#4e7891 !important;}
+.theme-color1-lt a, .theme-color1-lt i { color:#76b6db !important}
+.theme-color2-dk a, .theme-color2-dk i { color:#179eed !important}
+.theme-color2-lt a, .theme-color2-lt i { color:#d0e2ed !important}
+#nav > li > a {background-color:#179eed !important; color:#d0e2ed !important; }
+#nav > li > a:hover, #nav>li>a:active {background-color:#d0e2ed !important; color:#179eed !important; }
+.nav > li > a {background-color:#179eed !important; color:#d0e2ed !important; }
+.nav > li > a:hover, .nav>li>a:active {background-color:#d0e2ed !important; color:#179eed !important; }
+.nav ul li a {background-color:#4e7891; color:#d0e2ed; }
+.nav ul li a:hover { border:1px solid black; }
+.tablepress {border:3px solid #000 !important}
+.column-2, .column-4{border-right:3px solid #000 !important}
